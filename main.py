@@ -201,3 +201,5 @@ with MicrophoneStream(RATE, CHUNK) as stream:
     listen_print_loop(responses, src_lan, des_lan)
 #After quiting the method the app will go make MP3 file
 textToSpeech_outputMP3()
+
+#Hello hello testing git
